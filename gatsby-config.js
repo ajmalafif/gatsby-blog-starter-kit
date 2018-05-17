@@ -1,5 +1,6 @@
 module.exports = {
-  pathPrefix: process.env.CI ? `/${name}` : `/`,
+  // pathPrefix: process.env.CI ? `/${name}` : `/`,
+  pathPrefix: `/`,
   siteMetadata: {
     author: 'You!',
     title: `Gatsby Default (Blog) Starter`,
