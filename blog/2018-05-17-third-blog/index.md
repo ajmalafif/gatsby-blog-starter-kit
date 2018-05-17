@@ -1,3 +1,10 @@
+---
+path: "/third-blog"
+date: "2018-05-17"
+title: "Third blog"
+---
+
+
 ## A New Post
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
@@ -11,4 +18,3 @@ Try new images with `site.baseurl`
 
 Try new images
 ![ux malaysia](images/Image-Cover-1-1-e1464684943325.jpg)
-
